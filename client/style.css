@@ -1,0 +1,13 @@
+/* styles.css */
+.dark .header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .dark .sidebar {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  /* Thêm các quy tắc cho chế độ tối khác nếu cần */
+  
